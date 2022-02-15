@@ -1,4 +1,4 @@
-# Hello World :tw-1f603:
+# Hello World :smile:
 ![Sameer](aboutme.gif "Sameer")
 
 I'm currently studying for my bachelor's degree in Computer Science. In my spare time I enjoy watching anime, playing games and completing courses on CodeAcademy.
