@@ -1,5 +1,0 @@
-# All the icons are from Icons8:
-
-<a href="https://icons8.com/icon/dWCK2cNYlrUQ/facebook">Facebook icon by Icons8</a>
-<a href="https://icons8.com/icon/Nd2NsHS52GER/code">Code icon by Icons8</a>
-<a href="https://icons8.com/icon/RRKqw6zAQhPD/email">Email icon by Icons8</a>
