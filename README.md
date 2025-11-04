@@ -1,3 +1,1 @@
 ![SU042002](header.gif "SU042002")
-
-Currently studying for my Computer Science degree! More to come...
